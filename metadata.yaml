@@ -1,0 +1,31 @@
+_repo: Ships-Ways-of-Other-Days_60226
+_version: 0.0.1
+alternative_title: Ships and Ways of Other Days
+creator:
+  author:
+    agent_name: Chatterton, E. Keble (Edward Keble)
+    alias: Chatterton, Edward Keble
+    birthdate: 1878
+    deathdate: 1944
+    gutenberg_agent_id: '7457'
+    url: http://www.gutenberg.org/2009/agents/7457
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Keble_Chatterton
+description: ''
+gutenberg_issued: '2019-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60226'
+  lccn: a13002412
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'VK'
+- !lcsh 'Seafaring life'
+- !lcsh 'Shipbuilding -- History'
+- !lcsh 'Navigation -- History'
+- !lcsh 'Ships'
+- GITenberg
+title: Ships & Ways of Other Days
+url: http://www.gutenberg.org/ebooks/60226
