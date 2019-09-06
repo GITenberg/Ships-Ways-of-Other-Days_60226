@@ -1,6 +1,9 @@
 _repo: Ships-Ways-of-Other-Days_60226
 _version: 0.1.0
 alternative_title: Ships and Ways of Other Days
+covers:
+- cover_type: archival
+  image_path: 60226-h/images/cover.jpg
 creator:
   author:
     agent_name: Chatterton, E. Keble (Edward Keble)
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7457
     wikipedia: https://en.wikipedia.org/wiki/Edward_Keble_Chatterton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60226#Ships-Ways-of-Other-Days
 gutenberg_issued: '2019-09-02'
 gutenberg_type: Text
 identifiers:
